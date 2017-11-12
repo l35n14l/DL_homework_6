@@ -1,1 +1,1 @@
-# DL_homework_6
+https://l35n14l.github.io/DL_homework_6/
