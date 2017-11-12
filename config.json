@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Иван Лебедков"
+  },
+  "text": {
+    "more": "В группу людей, отмеченных розовым, кроме студентов-философов и бывших студентов-философов попал один студент из БФС171 (они отмечены зелёным) и один человек, не имеющий никакого отношения к Вышке, попавший туда абсолютно случайно.",
+    "intro": "В разделении по модулярности Gephi было допущено две небольших ошибки.",
+    "title": "DL_homework_6"
+  },
+  "legend": {
+    "edgeLabel": "Каждое ребро - отношения дружбы вк между моими друзьями.",
+    "colorLabel": "Зелёным обозначены студенты из БФС171, розовым все остальные студенты или бывшие студенты ОП \"Философия\", остальными цветами обозначены прочие мои друзья.",
+    "nodeLabel": "Каждый узел - мой друг из вк."
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
